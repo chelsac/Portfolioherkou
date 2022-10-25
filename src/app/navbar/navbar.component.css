@@ -1,0 +1,54 @@
+.mylogo{
+    padding: 10px;
+    margin-left: 40px;
+    height: 70px;
+    width: 70px;
+    border-radius: 15px;
+  
+}
+
+.mytext{
+    color: black;
+    font-size: 35px;
+    padding: 10px;
+    font-family: cursive;
+    
+}
+
+.mytext:hover{
+    
+    text-decoration: none;
+}
+
+.mysection{
+    float: left; 
+}
+
+.mylogo:hover{
+    transform: scale(1.2);
+}
+
+
+
+
+.text-items{
+    float: right;
+    margin: 20px;
+    
+    }
+
+    .text-item{
+        margin: 20px;
+        padding-top: 45px;
+        color: black;
+        /* font-weight: 900; */
+        font-size: 17px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+       
+    }
+
+    .header{
+        background-color:white;
+        height: 70px;
+        /* box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px; */
+        }
